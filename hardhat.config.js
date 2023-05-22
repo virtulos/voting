@@ -21,7 +21,7 @@ module.exports = {
             accounts: {mnemonic: 'test test test test test test test test test test test junk'}
         },
         BSCTestnet: {
-            url: process.env.BSC_TESTNET_RPC || 'https://bsc-dataseed.binance.org/',
+            url: process.env.BSC_TESTNET_RPC || 'https://data-seed-prebsc-1-s1.binance.org:8545',
             accounts: (
                 process.env.BSC_TESTNET_PRIVATE_KEY
             ).split(','),
