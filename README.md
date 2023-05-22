@@ -1,6 +1,6 @@
-# FCO Smart Contracts
+# Voting Smart Contracts for Fanatico
 
-This repository contains the source code for Fanatico smart contracts (FCO) developed using the Hardhat framework. The contracts are written in Solidity, and they can be compiled, tested, and deployed using various Hardhat plugins.
+This repository contains the source code for Fanatico Voting smart contracts developed using the Hardhat framework. The contracts are written in Solidity, and they can be compiled, tested, and deployed using various Hardhat plugins.
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ This repository contains the source code for Fanatico smart contracts (FCO) deve
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/virtulos/FCO.git
+    git clone https://github.com/virtulos/voting.git
     ```
    
 2. Install the dependencies:
